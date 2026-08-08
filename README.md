@@ -209,6 +209,30 @@
   - git log 결과
     ```bash
     git log --oneline --graph
+
+    PS C:\A1-1> git log --oneline --graph
+*   bfcfb83 (HEAD -> main, origin/main) fix: merge remote main
+|\  
+| * 02e0f0c Update clone command with specific repository URL
+| * 3816836 Update README.md
+| * 51cd6bc Update README.md
+* | b5dcb35 (feature/show-list) feat: Implement list view and favorite management
+|/  
+*   38eaf61 머지
+|\  
+| * fed0b6f Update README.md
+| * f54d199 Update README.md
+| * 3079006 Update Git installation and user configuration section
+| * 4f51b2a Update README.md
+| * 7f737fd Update README.md
+| * ca6a3c7 Update README.md
+| * d984420 Update README.md
+* | 6a03581 초기 설정
+|/  
+*   fa01474 readme 파일
+|\  
+| * ed430ee Create README.md
+* f96e1d1 Test github
     ```
 
 ---
