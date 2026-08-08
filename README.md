@@ -1,11 +1,3 @@
-# README.md 파일 내용
-
-아래 내용을 복사해서 README.md 파일에 붙여넣으세요 😊
-
----
-
-```markdown
-# 🗂️ 프롬프트 관리 콘솔 프로그램 - 미션 수행 가이드
 
 ## 📌 프로젝트 개요
 터미널에서 메뉴 번호를 입력해 AI 프롬프트를 관리하는 콘솔 기반 Python 프로그램입니다.
@@ -23,17 +15,24 @@
 - [ ] Korean Language Pack 설치 (선택)
 - [ ] Python 3.10 이상 설치 확인
   ```bash
-  python --version
+  PS C:\A1-1> python --version
+     Python 3.14.6
   ```
 - [ ] print("Hello") 실행 테스트
+  ```bash
+    PS C:\A1-1> & C:\Users\DiCiA\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/A1-1/main.py
+    hello world
+    This is a sample Python script.
+  ```
 - [ ] Git 설치 확인
   ```bash
-  git --version
+  PS C:\A1-1> git --version
+  git version 2.54.0.windows.1
   ```
 - [ ] Git 사용자 정보 설정
   ```bash
-  git config --global user.name "이름"
-  git config --global user.email "이메일"
+  PS C:\A1-1> git config --global user.name "장상민"
+  PS C:\A1-1> git config --global user.email "smz7093@hanmail.net"
   ```
 - [ ] 기본 브랜치 main 설정
   ```bash
@@ -53,7 +52,7 @@
   ```
 - [ ] 원격 저장소 연결
   ```bash
-  git remote add origin [저장소 URL]
+  git remote add origin [https://github.com/smz7093-web/A1-1]
   ```
 - [ ] .gitignore 파일 생성
 - [ ] README.md 파일 생성 (프로젝트 제목 작성)
