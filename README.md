@@ -16,7 +16,7 @@
 - [ ] Python 3.10 이상 설치 확인
   ```bash
   PS C:\A1-1> python --version
-Python 3.14.6
+     Python 3.14.6
   ```
 - [ ] print("Hello") 실행 테스트
 - [ ] Git 설치 확인
