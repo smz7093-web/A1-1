@@ -31,8 +31,8 @@
   ```
 - [ ] Git 사용자 정보 설정
   ```bash
-  git config --global user.name "이름"
-  git config --global user.email "이메일"
+  PS C:\A1-1> git config --global user.name "장상민"
+  PS C:\A1-1> git config --global user.email "smz7093@hanmail.net"
   ```
 - [ ] 기본 브랜치 main 설정
   ```bash
