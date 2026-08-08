@@ -19,6 +19,11 @@
      Python 3.14.6
   ```
 - [ ] print("Hello") 실행 테스트
+  ```bash
+    PS C:\A1-1> & C:\Users\DiCiA\AppData\Local\Python\pythoncore-3.14-64\python.exe c:/A1-1/main.py
+    hello world
+    This is a sample Python script.
+  ```
 - [ ] Git 설치 확인
   ```bash
   git --version
