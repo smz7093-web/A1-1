@@ -188,6 +188,7 @@
   - 프로그램 실행 결과 (메뉴, 추가, 목록, 검색 화면)
     
   - 프롬프트 목록
+    
     <img width="411" height="343" alt="image" src="https://github.com/user-attachments/assets/1f9a6638-5155-4c0d-969f-f8edb68c4277" />
 
   - git log 결과
