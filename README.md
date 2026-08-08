@@ -52,7 +52,7 @@
   ```
 - [ ] 원격 저장소 연결
   ```bash
-  git remote add origin [저장소 URL]
+  git remote add origin [https://github.com/smz7093-web/A1-1]
   ```
 - [ ] .gitignore 파일 생성
 - [ ] README.md 파일 생성 (프로젝트 제목 작성)
