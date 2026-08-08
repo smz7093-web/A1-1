@@ -61,10 +61,9 @@
   git add .
   git commit -m "초기 설정"
   git push origin main
-
-  <img width="930" height="324" alt="image" src="https://github.com/user-attachments/assets/8ff55aff-a03c-4c52-8f15-e7d273024ff5" />
-
   ```
+<img width="930" height="324" alt="image" src="https://github.com/user-attachments/assets/8ff55aff-a03c-4c52-8f15-e7d273024ff5" />
+  
 - [ ] 공개 샘플 저장소 clone 해보기 (확인 후 삭제 가능)
   ```bash
   git clone [공개 저장소 URL]
