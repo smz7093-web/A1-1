@@ -26,7 +26,8 @@
   ```
 - [ ] Git 설치 확인
   ```bash
-  git --version
+  PS C:\A1-1> git --version
+  git version 2.54.0.windows.1
   ```
 - [ ] Git 사용자 정보 설정
   ```bash
