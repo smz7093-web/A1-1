@@ -209,8 +209,9 @@
   - git log 결과
     ```bash
     git log --oneline --graph
+  ```
 
-    PS C:\A1-1> git log --oneline --graph
+PS C:\A1-1> git log --oneline --graph
 *   bfcfb83 (HEAD -> main, origin/main) fix: merge remote main
 |\  
 | * 02e0f0c Update clone command with specific repository URL
@@ -233,7 +234,6 @@
 |\  
 | * ed430ee Create README.md
 * f96e1d1 Test github
-    ```
 
 ---
 
