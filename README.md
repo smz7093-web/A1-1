@@ -66,7 +66,7 @@
   
 - [ ] 공개 샘플 저장소 clone 해보기 (확인 후 삭제 가능)
   ```bash
-  git clone [공개 저장소 URL]
+  git clone [https://github.com/smz7093-web/A1-1]
   ```
 
 ---
