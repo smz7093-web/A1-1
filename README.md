@@ -188,6 +188,7 @@
   - 프로그램 실행 결과 (메뉴, 추가, 목록, 검색 화면)
     
     <img width="411" height="343" alt="image" src="https://github.com/user-attachments/assets/1f9a6638-5155-4c0d-969f-f8edb68c4277" />
+    
     <img width="298" height="491" alt="image" src="https://github.com/user-attachments/assets/872eb15d-7690-4539-b2d6-d60334e3c805" />
 
 
